@@ -2,12 +2,12 @@
 <h1 align="center">AtliQ Hotels Data Analysis</h1>
 
 
-I completed this project and i learn from this how to perform EDA
+I completed this project and I learned from how to perform EDA
 Here’s a structured breakdown of your project steps, along with potential solutions and ideas:
 
 ### 1. **Exploratory Data Analysis (EDA)**
    - **Data Import and Data Exploration:** 
-     - Load the dataset and explore the basic structure using methods like `.head()`, `.describe()`, and `.info()` to understand the number of rows, columns, and the types of data.
+     - Load the dataset and explore the basic structure using methods like `.head()`, `.describe()`, and `.info()` to understand the number of rows, columns, and types of data.
    - **Explore Aggregate Bookings:** 
      - Identify basic trends, patterns, and outliers using summary statistics, histograms, and boxplots.
    - **Find Unique Property IDs in Aggregate Bookings Dataset:**
@@ -67,7 +67,7 @@ Here’s a structured breakdown of your project steps, along with potential solu
        ```
 
    - **June Occupancy for Different Cities:**
-     - Filter for the month of June and analyze the occupancy per city:
+     - Filter for June and analyze the occupancy per city:
        ```python
        june_data = df[df['month'] == 'June']
        june_data.groupby('city')['occupancy_percentage'].mean()
