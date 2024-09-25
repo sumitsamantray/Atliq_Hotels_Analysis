@@ -1,4 +1,5 @@
-#<h1 style="text-align: center;">Hospitality_Analysis </h1> 
+
+<h1 align="center">AtliQ Hotels Data Analysis</h1>
 
 # I completed this project and i learn from this how to perform EDA
 Here’s a structured breakdown of your project steps, along with potential solutions and ideas:
