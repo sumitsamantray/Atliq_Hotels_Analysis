@@ -1,7 +1,8 @@
 
 <h1 align="center">AtliQ Hotels Data Analysis</h1>
 
-# I completed this project and i learn from this how to perform EDA
+
+I completed this project and i learn from this how to perform EDA
 Here’s a structured breakdown of your project steps, along with potential solutions and ideas:
 
 ### 1. **Exploratory Data Analysis (EDA)**
